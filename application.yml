@@ -1,9 +1,7 @@
 jdbc:
   basic:
     maxOpenPreparedStatements: -1
-spring:
-  application:
-    name: movie-service
+
 
 #    jackson:
 #      serialization:
